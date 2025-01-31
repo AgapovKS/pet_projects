@@ -11,6 +11,7 @@
 Файлы проекта:
 - [test.csv](https://github.com/AgapovKS/pet_projects/blob/main/project_01_ml_boosting/train.csv): Датасет используемый для обучения модели
 - [test.csv](https://github.com/AgapovKS/pet_projects/blob/main/project_01_ml_boosting/train.csv): Датасет используемый для тестирования модели
+- [best_catboost_model.cbm](https://github.com/AgapovKS/pet_projects/blob/main/project_01_ml_boosting/best_catboost_model.cbm): Модель, обученная с помощью catboost
 - [my_submission.csv](https://github.com/AgapovKS/pet_projects/blob/main/project_01_ml_boosting/my_submission.csv): Сабмит, направляемый в Kaggle
 
 ### Результаты
