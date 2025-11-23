@@ -22,7 +22,7 @@
 
 ### Файлы проекта:
 - [recsys-notebook.ipynb](https://github.com/AgapovKS/pet_projects/blob/main/project_02_recsys_movie/recsys-notebook.ipynb): Ноутбук с кодом
-- [MovieLens_20M_Dataset.zip](): Датасет используемый для обучения и тестирования модели
+- [MovieLens_20M_Dataset.zip](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset): Датасет используемый для обучения и тестирования модели
 - [df_link.csv](https://github.com/AgapovKS/pet_projects/blob/main/project_02_recsys_movie/df_link.csv):  Датасет link с дополнительными фичами из TMDB API
   
 ### Результат:
