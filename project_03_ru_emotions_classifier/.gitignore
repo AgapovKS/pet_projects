@@ -1,0 +1,9 @@
+# Environment
+venv/
+__pycache__/
+
+# Big Model Files (replace 'my_model_folder' with the actual path)
+*.pt
+*.bin
+model_weights/*
+runs/
