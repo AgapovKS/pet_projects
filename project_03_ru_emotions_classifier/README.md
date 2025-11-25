@@ -37,6 +37,10 @@
 4.  **Аналитика:**
     * Построение матрицы корреляций предсказанных эмоций (какие эмоции модель часто видит вместе).
 
+## Файлы проекта
+- [emotions_classifier_notebook.ipynb](https://github.com/AgapovKS/pet_projects/blob/main/project_03_ru_emotions_classifier/emotions_classifier_notebook.ipynb): Код с графиками и обучением модели
+- [model_weights](https://github.com/AgapovKS/pet_projects/tree/main/project_03_ru_emotions_classifier/model_weights): Сохраненная модель со всеми пороговыми значениями
+
 ## Результаты
 * Модель выучила зависимости между текстом и эмоциями, что было показно на придуманных примерах
 * **Прирост качества:** Использование индивидуальных порогов (вместо стандартного 0.5) дало прирост метрики F1-Macro (с ~0.39 до ~0.42), что является неплохим результатом при таком большом дисбалансе 
